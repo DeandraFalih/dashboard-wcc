@@ -12,8 +12,8 @@
                 <i data-feather="bar-chart-2" aria-hidden="true"></i>
                 </div>
                 <div class="stat-cards-info">
-                <p class="stat-cards-info__num">1478 286</p>
                 <p class="stat-cards-info__title">Total visits</p>
+                <p class="stat-cards-info__num">1478 286</p>
                 <p class="stat-cards-info__progress">
                     <span class="stat-cards-info__profit success">
                     <i data-feather="trending-up" aria-hidden="true"></i>4.07%
@@ -29,8 +29,8 @@
                 <i data-feather="file" aria-hidden="true"></i>
                 </div>
                 <div class="stat-cards-info">
+                    <p class="stat-cards-info__title">Total visits</p>
                 <p class="stat-cards-info__num">1478 286</p>
-                <p class="stat-cards-info__title">Total visits</p>
                 <p class="stat-cards-info__progress">
                     <span class="stat-cards-info__profit success">
                     <i data-feather="trending-up" aria-hidden="true"></i>0.24%
@@ -46,8 +46,8 @@
                 <i data-feather="file" aria-hidden="true"></i>
                 </div>
                 <div class="stat-cards-info">
-                <p class="stat-cards-info__num">1478 286</p>
                 <p class="stat-cards-info__title">Total visits</p>
+                <p class="stat-cards-info__num">1478 286</p>
                 <p class="stat-cards-info__progress">
                     <span class="stat-cards-info__profit danger">
                     <i data-feather="trending-down" aria-hidden="true"></i>1.64%
@@ -63,8 +63,8 @@
                 <i data-feather="feather" aria-hidden="true"></i>
                 </div>
                 <div class="stat-cards-info">
-                <p class="stat-cards-info__num">1478 286</p>
                 <p class="stat-cards-info__title">Total visits</p>
+                <p class="stat-cards-info__num">1478 286</p>
                 <p class="stat-cards-info__progress">
                     <span class="stat-cards-info__profit warning">
                     <i data-feather="trending-up" aria-hidden="true"></i>0.00%
@@ -308,7 +308,7 @@
             <div class="col-lg-3">
             <article class="customers-wrapper">
                 <canvas id="customersChart" aria-label="Customers statistics" role="img"></canvas>
-                <!--              <p class="customers__title">New Customers <span>+958</span></p>
+                <!--              <p class="customers__title">Estimated Income <span>+958</span></p>
                 <p class="customers__date">28 Daily Avg.</p>
                 <picture><source srcset="./img/svg/customers.svg" type="image/webp"><img src="./img/svg/customers.svg" alt=""></picture> -->
             </article>
